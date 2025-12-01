@@ -28,36 +28,17 @@
 2. **Numverify** - https://numverify.com/
    - Requiere API key (plan gratuito)
    - Endpoint: `http://apilayer.net/api/validate`
-
-
-
-## Instalacion
-
-1. Clonar el repositorio:
-```
-git clone https://github.com/tu-usuario/pokemonapi_flutter.git
-```
-
-2. Navegar al directorio del proyecto:
-```
-cd pokemonapi_flutter
-```
-
-3. Instalar las dependencias:
-```
-flutter pub get
-```
-
-4. Ejecutar la aplicacion:
-```
-flutter run
-```
+   
 
 
 ### Buscar un Pokemon
 1. Abrir la aplicacion (por defecto muestra la pestana de Pokemon)
 2. Escribir el nombre del Pokemon
 3. Presionar el boton "Buscar" y se muestra la información
+
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/2f05faf2-ad34-4110-a3d9-85ca26208e5e" />
+
 
 ### Validar un Numero Telefonico
 1. Navegar a la pestana "Validar Telefono" en la barra inferior
@@ -66,6 +47,12 @@ flutter run
 4. Presionar el boton "Validar"
 5. Se mostrara si el numero es valido junto con toda su informacion
 
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/1dec7b29-0e20-4031-8cfe-3548c6f1eada" />
+
+
+
 ## Configuracion de API Key
 Para la funcionalidad de validacion de telefonos, se requiere una API key de Numverify. Para obtener una:
 1. Ir a https://numverify.com/
+2. Y crear una cuenta
